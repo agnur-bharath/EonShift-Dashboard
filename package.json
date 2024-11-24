@@ -37,7 +37,7 @@
     "@t3-oss/env-nextjs": "^0.7.1",
     "@tanstack/react-table": "^8.11.0",
     "@tremor/react": "^3.11.1",
-    "axios": "^1.6.2",
+    "axios": "^1.7.4",
     "chart.js": "^4.4.1",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.0.0",
