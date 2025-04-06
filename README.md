@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# EonShift Frontend README
+# EonShift Frontend
 
 ## Project Overview
 
@@ -64,10 +63,3 @@ source files.
 - **Next.js Features:** Leverage the full potential of Next.js, including server-side rendering and static site
   generation.
 
-## Support
-
-For any additional information or support, please contact the development team or open an issue in the project
-repository.
-=======
-# eonshift-frontend
->>>>>>> d02196d187fa21bd54ef1292602343987e85aef7
